@@ -1,0 +1,1 @@
+# A-function-to-speed-up-and-simplify-writing-to-SQL-Server-databases-in-R
